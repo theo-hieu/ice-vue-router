@@ -50,3 +50,16 @@ npm run lint
 [Documentation](https://gsap.com/docs/v3/)
 
 [Cheatsheet](https://gsap.com/cheatsheet/)
+
+firebase login
+
+firebase init
+dist
+spa-y
+auto build deploy-y
+user/rep
+build script b4 every deploy-y
+script: npm ci && npm run build
+auto deploy-y
+branch name-main
+overwrite- No
